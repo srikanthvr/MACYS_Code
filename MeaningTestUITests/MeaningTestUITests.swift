@@ -2,8 +2,8 @@
 //  MeaningTestUITests.swift
 //  MeaningTestUITests
 //
-//  Created by Satheesh on 4/14/17.
-//  Copyright © 2017 Satheesh. All rights reserved.
+//  Created by Srikanth Reddy on 4/14/17.
+//  Copyright © 2017 Srikanth Reddy. All rights reserved.
 //
 
 import XCTest
