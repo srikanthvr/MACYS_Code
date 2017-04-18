@@ -262,7 +262,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0830;
 				LastUpgradeCheck = 0830;
-				ORGANIZATIONNAME = Satheesh;
+				ORGANIZATIONNAME = "Srikanth Reddy";
 				TargetAttributes = {
 					291E167D1EA0E186000ED90C = {
 						CreatedOnToolsVersion = 8.3.1;
@@ -636,7 +636,7 @@
 				DEVELOPMENT_TEAM = 86V7589586;
 				INFOPLIST_FILE = MeaningTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.MeaningTest;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Macys;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "MeaningTest/MeaningTest-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -653,7 +653,7 @@
 				DEVELOPMENT_TEAM = 86V7589586;
 				INFOPLIST_FILE = MeaningTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.MeaningTest;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Macys;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "MeaningTest/MeaningTest-Bridging-Header.h";
 				SWIFT_VERSION = 3.0;
